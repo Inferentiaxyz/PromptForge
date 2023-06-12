@@ -91,12 +91,3 @@ def main(message: str):
 
     message_history.append({"role": "assistant", "content": msg.content})
     msg.send()
-
-"""@cl.on_chat_start
-def main():
-    res = cl.AskUserMessage(content="What is your OPENAI api key?", timeout=30).send()
-    if res:
-        openai.api_key = res['content']
-        cl.Message(
-            content=f"Your key correctly added aske me everything: {res['content']}",
-        ).send()"""
