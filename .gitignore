@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+#Ignore the openai key
+openaikey.txt
 
 # Distribution / packaging
 .Python

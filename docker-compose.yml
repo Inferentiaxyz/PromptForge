@@ -1,0 +1,9 @@
+version: '3'
+services:
+  myapp:
+    build:
+      context: .
+    volumes:
+      - .:/app
+    ports:
+      - 8000:8000
