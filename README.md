@@ -1,4 +1,15 @@
-![Inferentia logo](https://inferentia.xyz/assets/img/logo_testo_small.png)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h2>PromptForge</h2>
+  <img src="https://inferentia.xyz/assets/img/prompt_ai_assistant/promptforge_logo.jpg" alt="Logo" width="200" height="200" alt="Image generated with BlueWillow">
+  <h4>
+    Prompt engineering AI assistant
+  </h4>
+</div>
+<br/>
+<br/>
+
 # PromptForge 📃⚒️🤖
 
 Hi there, Developer! 👋 We're excited to have you on board. **PromptForge** is a **prompt engineering AI assistant** that will help you to create amazing prompts for your LLMs.
