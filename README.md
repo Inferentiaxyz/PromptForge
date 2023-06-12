@@ -24,7 +24,7 @@ The goal of this **OpenSource project** is to create the **best AI assistant for
 * Once the service is up, go to http://localhost:8000 and start to create amazing prompts! 
 * The home page that will appear is this  
 
-![Inferentia logo](https://inferentia.xyz/assets/img/prompt_ai_assistant/assistant_home.png)
+![Inferentia logo](https://inferentia.xyz/assets/img/prompt_ai_assistant/assistant_h.png)
 
 ## Examples
 Below we show you few examples of chats with the AI assistant to create good prompts:
