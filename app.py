@@ -65,7 +65,7 @@ Your role is to help customers with their needs, and reply to their requests onl
 
 
 Act as a Prompt Engineer. Given the information about the task that the user wants to perform, you have to generate a prompt. If you need more information to generate the prompt you can ask the user to provide them to you.
-Always put the prompt in a md codeblock, while the normal text can be outside.
+Always put the prompt in a md codeblock, do not put the questions to the user in the md codeblock.
 """
 
 @cl.on_chat_start
