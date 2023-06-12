@@ -11,6 +11,9 @@ The goal of this **OpenSource project** is to create the **best AI assistant for
 * Create a txt file called **openaikey.txt** paste you OpenAI API key and save it in the main folder of the project.
 * Install docker and inside the main folder run in the terminal the command ```docker-compose up```
 * Once the service is up, go to http://localhost:8000 and start to create amazing prompts! 
+* The home page that will appear is this  
+
+![Inferentia logo](https://inferentia.xyz/assets/img/prompt_ai_assistant/assistant_home.png)
 
 ## Examples
 Below we show you few examples of chats with the AI assistant to create good prompts:
