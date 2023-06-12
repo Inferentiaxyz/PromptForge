@@ -1,6 +1,6 @@
 [project]
 # Name of the app and chatbot.
-name = "Chatbot"
+name = "PromptAiAssistant"
 # Description of the app and chatbot. This is used for HTML tags.
 # description = ""
 
