@@ -18,11 +18,11 @@ Hi there, Developer! 👋 We're excited to have you on board. **PromptForge** is
 The goal of this **OpenSource project** is to create the **best AI assistant for prompt engineering**. There are plenty of improvements to do, the AI is not perfect but with your help we can do it!
 
 ## Install and quick start
-* First of all you need an  [OpenAI API key](https://platform.openai.com/account/api-keys)
-* Create a txt file called **openaikey.txt** paste you OpenAI API key and save it in the main folder of the project.
-* Install docker and inside the main folder run in the terminal the command ```docker-compose up```
-* Once the service is up, go to http://localhost:8000 and start to create amazing prompts! 
-* The home page that will appear is this  
+1. First of all you need an  [OpenAI API key](https://platform.openai.com/account/api-keys)
+2. Create a txt file called **openaikey.txt** paste you OpenAI API key and save it in the main folder of the project.
+3. Install docker and inside the main folder run in the terminal the command ```docker-compose up```
+4. Once the service is up, go to http://localhost:8000 and start to create amazing prompts! 
+5. The home page that will appear is this  
 
 ![Inferentia logo](https://inferentia.xyz/assets/img/prompt_ai_assistant/assistant_h.png)
 
@@ -35,6 +35,16 @@ Below we show you few examples of chats with the AI assistant to create good pro
 ### An e-mail classifier:  
 ![Inferentia logo](https://inferentia.xyz/assets/img/prompt_ai_assistant/assistant2.png)
 
+### TODO
+- [ ] UI: add current prompt box
+- [ ] UI: add settings to insert the API key
+- [ ] ..
+
+### Roadmap
+- [ ] Prompt evaluator 
+- [ ] Support different LLMs
+- [ ] Self-reasoning on prompt evaluation results
+- [ ] ..
 
 ## Useful Links 🔗
 
