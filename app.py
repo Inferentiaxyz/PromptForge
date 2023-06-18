@@ -77,7 +77,7 @@ def start_chat():
 
 
 @cl.on_message
-def main(message: str):
+async def main(message: str):
     message_history = cl.user_session.get("message_history")
     message_history.append({"role": "user", "content": message})  
     msg = cl.Message(content="")
@@ -87,7 +87,7 @@ def main(message: str):
     )
     for resp in response:
         token = resp.choices[0]["delta"].get("content", "")
-        msg.stream_token(token)
+        await msg.stream_token(token)
 
     message_history.append({"role": "assistant", "content": msg.content})
-    msg.send()
+    await msg.send()
