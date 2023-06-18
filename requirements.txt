@@ -2,4 +2,4 @@ pandas
 fastapi
 uvicorn
 openai
-chainlit
+chainlit==0.3.0
